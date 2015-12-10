@@ -1,2 +1,2 @@
 # dailyfantasy2016
-Data science-grounded daily fantasy analysis 
+Data-driven daily fantasy analysis 
